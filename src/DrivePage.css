@@ -1,0 +1,39 @@
+.drive-page-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .drive-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .drive-form label {
+    margin-bottom: 10px;
+  }
+  
+  .drive-form input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .drive-form button {
+    background-color: #1c5d7a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .drive-form button:hover {
+    background-color: #0056b3;
+  }
+  

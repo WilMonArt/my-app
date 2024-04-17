@@ -1,0 +1,25 @@
+/* En MainWelcome.css */
+
+.main-welcome-container {
+    text-align: center;
+    padding: 160px;
+    background-color: #1c5d7a; /* Fondo color púrpura */
+    color: #fae8e8; /* Texto en blanco */
+}
+  
+.title {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+  
+.subtitle {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000000; /* Subtítulo en negro */
+}
+  
+.description {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
